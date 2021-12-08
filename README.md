@@ -134,7 +134,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   python -m pip install --upgrade pip
   ```
   ```
-  pip install setuptools<59
+  pip install setuptools
   ```
   ```
   pip install -r requirements.txt
